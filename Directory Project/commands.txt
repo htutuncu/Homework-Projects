@@ -1,0 +1,1 @@
+copy /directory0/directory1/directory2/file1 /directory0
