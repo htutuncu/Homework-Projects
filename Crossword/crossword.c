@@ -1,16 +1,16 @@
 /********************************************************************************************/
 /*                                 CSE 102 Computer Programming in C                        */
-/*																							*/
+/*											    */												*/
 /*                                         HIKMET TUTUNCU                                   */
-/*                                HW 03                    141044054                        */
+/*                                HW 03                    	                            */
 /*                                                                                          */
 /********************************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_LEN 250							/*						Maximum length of rows						*/
-#define MAX_ROW 100							/*						Maximum row number 							*/
+#define MAX_LEN 250		/*		Maximum length of rows			 		*/
+#define MAX_ROW 100		/*		Maximum row number 					*/
 
 void Xanthos_finder(char Xanthos[],char main_array[][MAX_LEN],int row);
 void Patara_finder(char Patara[],char main_array[][MAX_LEN],int row);
@@ -422,11 +422,3 @@ void Phaselis_finder(char Phaselis[],char main_array[][MAX_LEN],int row)
 		printf("Phaselis (%d,%d) Vertical \n",v1,v2);
 	}
 }
-
-/********************************************************************************************/
-/*                                 CSE 102 Computer Programming in C                        */
-/*																							*/
-/*                                         HIKMET TUTUNCU                                   */
-/*                                HW 03                    141044054                        */
-/*                                                                                          */
-/********************************************************************************************/
