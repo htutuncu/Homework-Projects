@@ -8,3 +8,6 @@ This C code finds given words and their coordinates from the complicated input.t
 
 # Polinomial Calculate:
 This C code calculates given polinomial expression with given inputs.
+
+# Catalog:
+This C++ project creates a catalog of given musics,books and movies information. The project is about exception handling and STL classes.
