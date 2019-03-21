@@ -1,8 +1,8 @@
 /*
 *					OBJECT ORIENTED PROGRAMMING
-*						  ASSIGNMENT-5
-*						  11.05.2018
-*				   HIKMET TUTUNCU	141044054
+*						ASSIGNMENT-5
+*						11.05.2018
+*				   	      HIKMET TUTUNCU
 */
 
 #include <iostream>
