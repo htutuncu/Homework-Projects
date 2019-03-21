@@ -1,3 +1,4 @@
-# Files include contents of projects as PDF. 
+Files include contents of projects as PDF. 
 
-# Directory Project: This C++ project is about implementing and testing classes for directory/file hierarchy.
+# Directory Project: 
+This C++ project is about implementing and testing classes for directory/file hierarchy.
