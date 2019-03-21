@@ -5,3 +5,6 @@ This C++ project is about implementing and testing classes for directory/file hi
 
 # Crossword:
 This C code finds given words and their coordinates from the complicated input.txt file.
+
+# Polinomial Calculate:
+This C code calculates given polinomial expression with given inputs.
