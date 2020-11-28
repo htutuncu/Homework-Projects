@@ -16,4 +16,4 @@ This C++ project creates a catalog of given musics,books and movies information.
 I wrote a Java program which solves a problem known as The Skyline Problem.I used Java GUI and visualized the Skyline view. I used HashMap and TreeSet data structures.
 
 # Circular Double Linked List:
-Data Structures course assignment. Reads data from file and creates circular double linked list. Finally, program reverse the circular double linked lists.
+Data Structures C++ course assignment. Reads data from file and creates circular double linked list. Finally, program reverse the circular double linked lists.
