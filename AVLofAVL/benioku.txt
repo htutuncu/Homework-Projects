@@ -1,0 +1,1 @@
+mingw32-make ya da make komutu ile çalışmaktadır.
