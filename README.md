@@ -17,3 +17,6 @@ I wrote a Java program which solves a problem known as The Skyline Problem.I use
 
 # Circular Double Linked List:
 Data Structures C++ course assignment. Reads data from file and creates circular double linked list. ListeOrta is middle node of the list. There is no pointer which points head or tail. The structure only has middle node pointer of list.
+
+# AVL tree of AVL tree:
+Data Structures C++ course assignment. Reads data from file and creates AVL tree. Node of the AVL is a another AVL tree.
