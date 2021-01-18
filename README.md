@@ -17,3 +17,6 @@ I wrote a Java program which solves a problem known as The Skyline Problem.I use
 
 # Circular Double Linked List:
 Data Structures C++ course assignment. Reads data from file and creates circular double linked list. Finally, program reverse the circular double linked lists.
+
+# Liste Orta Project:
+Data Structures course assignment. The project is about circular double linked list. ListeOrta is middle node of the list. There is no pointer which points head or tail. The structure only has middle node pointer of list.
